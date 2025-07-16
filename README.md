@@ -1,3 +1,4 @@
+
 # Weather Report Now Bot
 
 A comprehensive Telegram weather bot that provides current weather conditions and forecasts for any location worldwide.
@@ -156,3 +157,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) library
 - [Open-Meteo](https://open-meteo.com/) for the weather data API
 - All contributors and users of the bot
+
