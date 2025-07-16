@@ -1112,3 +1112,30 @@
 2025-07-16 12:42:28,001 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7646472075:AAHFYap1ITaiy5NFJSpDBsqmLIe8BXPAqj0/getUpdates "HTTP/1.1 200 OK"
 2025-07-16 12:42:38,284 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7646472075:AAHFYap1ITaiy5NFJSpDBsqmLIe8BXPAqj0/getUpdates "HTTP/1.1 200 OK"
 2025-07-16 12:42:48,523 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7646472075:AAHFYap1ITaiy5NFJSpDBsqmLIe8BXPAqj0/getUpdates "HTTP/1.1 200 OK"
+2025-07-16 12:42:58,740 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7646472075:AAHFYap1ITaiy5NFJSpDBsqmLIe8BXPAqj0/getUpdates "HTTP/1.1 200 OK"
+2025-07-16 12:43:09,256 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7646472075:AAHFYap1ITaiy5NFJSpDBsqmLIe8BXPAqj0/getUpdates "HTTP/1.1 200 OK"
+2025-07-16 12:43:19,456 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7646472075:AAHFYap1ITaiy5NFJSpDBsqmLIe8BXPAqj0/getUpdates "HTTP/1.1 200 OK"
+2025-07-16 12:43:29,656 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7646472075:AAHFYap1ITaiy5NFJSpDBsqmLIe8BXPAqj0/getUpdates "HTTP/1.1 200 OK"
+2025-07-16 12:43:39,855 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7646472075:AAHFYap1ITaiy5NFJSpDBsqmLIe8BXPAqj0/getUpdates "HTTP/1.1 200 OK"
+2025-07-16 12:43:50,123 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7646472075:AAHFYap1ITaiy5NFJSpDBsqmLIe8BXPAqj0/getUpdates "HTTP/1.1 200 OK"
+2025-07-16 12:44:00,341 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7646472075:AAHFYap1ITaiy5NFJSpDBsqmLIe8BXPAqj0/getUpdates "HTTP/1.1 200 OK"
+2025-07-16 12:44:10,534 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7646472075:AAHFYap1ITaiy5NFJSpDBsqmLIe8BXPAqj0/getUpdates "HTTP/1.1 200 OK"
+2025-07-16 12:44:20,736 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7646472075:AAHFYap1ITaiy5NFJSpDBsqmLIe8BXPAqj0/getUpdates "HTTP/1.1 200 OK"
+2025-07-16 12:44:30,952 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7646472075:AAHFYap1ITaiy5NFJSpDBsqmLIe8BXPAqj0/getUpdates "HTTP/1.1 200 OK"
+2025-07-16 12:44:41,149 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7646472075:AAHFYap1ITaiy5NFJSpDBsqmLIe8BXPAqj0/getUpdates "HTTP/1.1 200 OK"
+2025-07-16 12:44:51,346 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7646472075:AAHFYap1ITaiy5NFJSpDBsqmLIe8BXPAqj0/getUpdates "HTTP/1.1 200 OK"
+2025-07-16 12:45:01,560 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7646472075:AAHFYap1ITaiy5NFJSpDBsqmLIe8BXPAqj0/getUpdates "HTTP/1.1 200 OK"
+2025-07-16 12:45:11,882 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7646472075:AAHFYap1ITaiy5NFJSpDBsqmLIe8BXPAqj0/getUpdates "HTTP/1.1 200 OK"
+2025-07-16 12:45:22,074 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7646472075:AAHFYap1ITaiy5NFJSpDBsqmLIe8BXPAqj0/getUpdates "HTTP/1.1 200 OK"
+2025-07-16 12:45:32,276 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7646472075:AAHFYap1ITaiy5NFJSpDBsqmLIe8BXPAqj0/getUpdates "HTTP/1.1 200 OK"
+2025-07-16 12:45:42,476 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7646472075:AAHFYap1ITaiy5NFJSpDBsqmLIe8BXPAqj0/getUpdates "HTTP/1.1 200 OK"
+2025-07-16 12:45:52,685 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7646472075:AAHFYap1ITaiy5NFJSpDBsqmLIe8BXPAqj0/getUpdates "HTTP/1.1 200 OK"
+2025-07-16 12:46:02,895 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7646472075:AAHFYap1ITaiy5NFJSpDBsqmLIe8BXPAqj0/getUpdates "HTTP/1.1 200 OK"
+2025-07-16 12:46:10,910 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7646472075:AAHFYap1ITaiy5NFJSpDBsqmLIe8BXPAqj0/getUpdates "HTTP/1.1 200 OK"
+2025-07-16 12:46:10,911 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-07-16 12:46:10,912 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2025-07-16 12:46:10,931 - telegram.ext.Application - INFO - Application.stop() complete
+2025-07-16 12:46:11,087 - health_check - INFO - Health check server stopped
+2025-07-16 12:46:11,090 - bot - INFO - Bot stopped
+2025-07-16 12:46:11,092 - __main__ - INFO - Cleaning up...
+2025-07-16 12:46:11,093 - health_check - INFO - Health check server stopped
