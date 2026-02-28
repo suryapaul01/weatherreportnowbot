@@ -2,10 +2,10 @@ python-telegram-bot==20.7
 openmeteo-requests==1.1.0
 requests-cache==1.1.1
 retry-requests==2.0.0
-numpy==1.24.3
-pandas==2.0.3
+numpy==1.26.0
+pandas==2.2.0
 aiofiles==23.2.1
 aiosqlite==0.19.0
 python-dotenv==1.0.0
-psutil==5.9.5
+psutil==5.9.6
 aiohttp==3.9.1
